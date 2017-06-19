@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<Level>
+  <Parameters>
+    <LevelName>Crtice</LevelName>
+    <SnakeLengthGoal>50</SnakeLengthGoal>
+    <ScoreGoal>250</ScoreGoal>
+  </Parameters>
+  <Obstacles>
+    <Position X="230" Y="160" />
+    <Position X="240" Y="160" />
+    <Position X="250" Y="160" />
+    <Position X="260" Y="160" />
+    <Position X="270" Y="160" />
+    <Position X="280" Y="160" />
+    <Position X="290" Y="160" />
+    <Position X="300" Y="160" />
+    <Position X="310" Y="160" />
+    <Position X="320" Y="160" />
+    <Position X="230" Y="200" />
+    <Position X="240" Y="200" />
+    <Position X="250" Y="200" />
+    <Position X="260" Y="200" />
+    <Position X="270" Y="200" />
+    <Position X="280" Y="200" />
+    <Position X="290" Y="200" />
+    <Position X="300" Y="200" />
+    <Position X="310" Y="200" />
+    <Position X="320" Y="200" />
+    <Position X="230" Y="240" />
+    <Position X="240" Y="240" />
+    <Position X="250" Y="240" />
+    <Position X="260" Y="240" />
+    <Position X="270" Y="240" />
+    <Position X="280" Y="240" />
+    <Position X="290" Y="240" />
+    <Position X="300" Y="240" />
+    <Position X="310" Y="240" />
+    <Position X="320" Y="240" />
+    <Position X="230" Y="280" />
+    <Position X="240" Y="280" />
+    <Position X="250" Y="280" />
+    <Position X="260" Y="280" />
+    <Position X="270" Y="280" />
+    <Position X="280" Y="280" />
+    <Position X="290" Y="280" />
+    <Position X="300" Y="280" />
+    <Position X="310" Y="280" />
+    <Position X="320" Y="280" />
+    <Position X="30" Y="350" />
+    <Position X="70" Y="350" />
+    <Position X="110" Y="350" />
+    <Position X="150" Y="350" />
+    <Position X="30" Y="360" />
+    <Position X="70" Y="360" />
+    <Position X="110" Y="360" />
+    <Position X="150" Y="360" />
+    <Position X="30" Y="370" />
+    <Position X="70" Y="370" />
+    <Position X="110" Y="370" />
+    <Position X="150" Y="370" />
+    <Position X="30" Y="380" />
+    <Position X="70" Y="380" />
+    <Position X="110" Y="380" />
+    <Position X="150" Y="380" />
+    <Position X="30" Y="390" />
+    <Position X="70" Y="390" />
+    <Position X="110" Y="390" />
+    <Position X="150" Y="390" />
+    <Position X="30" Y="400" />
+    <Position X="70" Y="400" />
+    <Position X="110" Y="400" />
+    <Position X="150" Y="400" />
+    <Position X="30" Y="410" />
+    <Position X="70" Y="410" />
+    <Position X="110" Y="410" />
+    <Position X="150" Y="410" />
+    <Position X="30" Y="420" />
+    <Position X="70" Y="420" />
+    <Position X="110" Y="420" />
+    <Position X="150" Y="420" />
+    <Position X="30" Y="430" />
+    <Position X="70" Y="430" />
+    <Position X="110" Y="430" />
+    <Position X="150" Y="430" />
+    <Position X="30" Y="440" />
+    <Position X="70" Y="440" />
+    <Position X="110" Y="440" />
+    <Position X="150" Y="440" />
+  </Obstacles>
+</Level>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Level>
+  <Parameters>
+    <LevelName>Plus</LevelName>
+    <SnakeLengthGoal>50</SnakeLengthGoal>
+    <ScoreGoal>250</ScoreGoal>
+  </Parameters>
+  <Obstacles>
+    <Position X="170" Y="220" />
+    <Position X="170" Y="230" />
+    <Position X="170" Y="240" />
+    <Position X="170" Y="250" />
+    <Position X="170" Y="260" />
+    <Position X="170" Y="270" />
+    <Position X="170" Y="280" />
+    <Position X="170" Y="290" />
+    <Position X="90" Y="300" />
+    <Position X="100" Y="300" />
+    <Position X="110" Y="300" />
+    <Position X="120" Y="300" />
+    <Position X="130" Y="300" />
+    <Position X="140" Y="300" />
+    <Position X="150" Y="300" />
+    <Position X="160" Y="300" />
+    <Position X="170" Y="300" />
+    <Position X="180" Y="300" />
+    <Position X="190" Y="300" />
+    <Position X="200" Y="300" />
+    <Position X="210" Y="300" />
+    <Position X="220" Y="300" />
+    <Position X="230" Y="300" />
+    <Position X="240" Y="300" />
+    <Position X="250" Y="300" />
+    <Position X="170" Y="310" />
+    <Position X="170" Y="320" />
+    <Position X="170" Y="330" />
+    <Position X="170" Y="340" />
+    <Position X="170" Y="350" />
+    <Position X="170" Y="360" />
+    <Position X="170" Y="370" />
+    <Position X="170" Y="380" />
+  </Obstacles>
+</Level>

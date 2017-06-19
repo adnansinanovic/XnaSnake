@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Languages>
+  <Language Name="BA">
+    <Message Key="PLAYER">Igrac</Message>
+    <Message Key="PLAYER_NAME">Ime igraca</Message>
+    <Message Key="DEAL">Dijeli</Message>
+    <Message Key="GAME_OVER">Kraj Igre</Message>
+    <Message Key="SCORE">Bodovi</Message>
+    <Message Key="SPEED">Brzina</Message>
+    <Message Key="START">Start</Message>
+    <Message Key="BONUS_FREQEUNCY">Frekvencija bonusa</Message>
+    <Message Key="SEC_ABR">s.</Message>
+    <Message Key="PLAY_AGAIN">Igraj ponovo</Message>
+    <Message Key="EXIT">Izlaz</Message>
+    <Message Key="LEVEL_EDITOR">Editor Nivoa</Message>
+    <Message Key="BACK">Nazad</Message>
+    <Message Key="SAVE">Snimi</Message>
+    <Message Key="SNAKE_LENGTH">Duzina zmije</Message>
+    <Message Key="GOAL">Cilj</Message>
+    <Message Key="SELECT_LEVEL">Izaberi nivo</Message>
+    <Message Key="WIN">Pobjeda</Message>
+    <Message Key="NEXT_LEVEL">Iduci nivo</Message>
+    <Message Key="HIGHSCORES">Naj. rezultati</Message>
+    <Message Key="LEVEL">Nivo</Message>    
+  </Language>
+  
+  <Language Name="EN">
+    <Message Key="PLAYER">Player</Message>
+    <Message Key="DEAL">Deal</Message>
+    <Message Key="HOLD">Hold</Message>
+    <Message Key="GAME_OVER">Game Over</Message>
+    <Message Key="SCORE">Score</Message>
+    <Message Key="SPEED">Speed</Message>
+    <Message Key="START">Start</Message>
+    <Message Key="BONUS_FREQEUNCY">Bonus frequency</Message>
+    <Message Key="SEC_ABR">sec.</Message>
+    <Message Key="PLAY_AGAIN">Play Again</Message>
+    <Message Key="EXIT">Exit</Message>
+    <Message Key="LEVEL_EDITOR">Level Editor</Message>
+    <Message Key="BACK">Back</Message>
+    <Message Key="SAVE">Save</Message>
+    <Message Key="SNAKE_LENGTH">Snake Length</Message>
+    <Message Key="GOAL">Goal</Message>
+    <Message Key="SELECT_LEVEL">Select Level</Message>
+    <Message Key="WIN">Win</Message>
+    <Message Key="NEXT_LEVEL">Next Level</Message>
+    <Message Key="HIGHSCORES">Highscores</Message>
+    <Message Key="LEVEL">Level</Message>
+    <Message Key="PLAYER_NAME">Player Name</Message>
+  </Language>
+</Languages>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Level>
+  <Parameters>
+    <LevelName>Linija</LevelName>
+    <SnakeLengthGoal>50</SnakeLengthGoal>
+    <ScoreGoal>250</ScoreGoal>
+  </Parameters>
+  <Obstacles>
+    <Position X="100" Y="290" />
+    <Position X="110" Y="290" />
+    <Position X="120" Y="290" />
+    <Position X="130" Y="290" />
+    <Position X="140" Y="290" />
+    <Position X="150" Y="290" />
+    <Position X="160" Y="290" />
+    <Position X="170" Y="290" />
+    <Position X="180" Y="290" />
+    <Position X="190" Y="290" />
+    <Position X="200" Y="290" />
+    <Position X="210" Y="290" />
+    <Position X="220" Y="290" />
+    <Position X="230" Y="290" />
+    <Position X="240" Y="290" />
+    <Position X="250" Y="290" />
+    <Position X="260" Y="290" />
+    <Position X="270" Y="290" />
+  </Obstacles>
+</Level>
